@@ -130,6 +130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2314297920377331660, guid: 1b79a03dd37d2164d96e8f739030aaa5, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4783507120634994303, guid: 1b79a03dd37d2164d96e8f739030aaa5, type: 3}
       propertyPath: m_Name
       value: Center_Terence (1)
