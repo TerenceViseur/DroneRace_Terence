@@ -2,7 +2,7 @@
   "name": "be.terenceviseur.terencesample",                              
   "displayName": "Drone Race Terence Sample",                        
   "version": "0.0.1",                         
-  "unity": "2022.3.30f1",                             
+  "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "BlahBlahBlah",                         
   "keywords": ["Script","Tool"],   
